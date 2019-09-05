@@ -19,5 +19,5 @@
 2. 
   * _Rive playlist_ _https://open.spotify.com/playlist/6CjLfXPGFqe0gq3cMjtOQx_
 3. 
-  *  [Cristobal Github] (https://github.com/cristobalrivera)
+  *  [Cristobal Github](https://github.com/cristobalrivera)
   
