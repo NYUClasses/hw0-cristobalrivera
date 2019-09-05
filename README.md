@@ -18,9 +18,10 @@
 It should look something like this: 
 
 1. Name:
-  * Arnon Lieber
+  * **Cristobal Rivera**
 2. 
-  * 
+  * *https://open.spotify.com/playlist/6CjLfXPGFqe0gq3cMjtOQx*
 3. 
-
+  [Cristobal Github] (https://github.com/cristobalrivera)
+  
 Once you are done, commit your changes, and push to GitHub. 
