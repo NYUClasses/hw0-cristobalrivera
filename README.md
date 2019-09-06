@@ -17,7 +17,7 @@
 1. 
   * **Cristobal Rivera**
 2. 
-  * _[Rive playlist (Spotify)]_(https://open.spotify.com/playlist/6CjLfXPGFqe0gq3cMjtOQx)
+  * [_Rive playlist (Spotify)_](https://open.spotify.com/playlist/6CjLfXPGFqe0gq3cMjtOQx)
 3. 
   *  [Cristobal Github](https://github.com/cristobalrivera)
   
